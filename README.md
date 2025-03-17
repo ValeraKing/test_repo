@@ -1,2 +1,2 @@
 # test_repo
-For test
+This repo was created for testing
