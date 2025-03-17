@@ -1,2 +1,6 @@
+def print_text(text: str) -> None:
+    print(text)
 
-print("Hello world!")
+if __name__ == "__main__":
+    print_text("Hello world!")
+
